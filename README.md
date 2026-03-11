@@ -7,7 +7,7 @@
 
 ## 📌 Deskripsi Proyek
 
-Notebook ini generate dataset sintetik **8,500 baris** yang mensimulasikan operasional layanan pesan-antar makanan lokal (Indonesia). Dataset dirancang untuk terlihat **asli dengan segala kelemahannya**: missing values, outliers, format inconsistency, dan relasi kausalitas antar kolom.
+Dataset sintetik **8,500 baris** yang mensimulasikan operasional layanan pesan-antar makanan lokal (Indonesia). Dataset dirancang untuk terlihat **asli dengan segala kelemahannya**: missing values, outliers, format inconsistency, dan relasi kausalitas antar kolom.
 
 **Tujuan:**
 - ✅ Simulasi data real-world untuk praktik data science
